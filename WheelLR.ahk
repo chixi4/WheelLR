@@ -8,7 +8,7 @@ SetMouseDelay, -1
 ; ===================================================================
 ;                         User Configuration
 ; ===================================================================
-global triggerKey  := "LButton" ; Trigger key (LButton/RButton/MButton)
+global triggerKey  := "RButton" ; Trigger key (LButton/RButton/MButton)
 global dragThreshold := 5      ; Drag detection threshold (pixels)
 ; ===================================================================
 
